@@ -1,4 +1,6 @@
+<center>
 # Blockchain Fraud Network Analysis
+</center>
 
 ## Project Overview
 This repository contains a comprehensive data-driven investigation into a blockchain transaction network. The primary objective of this analysis is to uncover money laundering typologies, specifically layering and fan-out structures, and to map the structural hubs utilized by bad actors to obfuscate illicit funds.
